@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+/* Aside */
+.is-choosing{
+  margin-left: 600px;
+}
+
+.choose{
+  margin-left: 50px;
+}
+
+label{
+  margin: 4px 0;
+}
+
+.squareis{
+  margin-top: 20px 0;
+}
+
+span{
+  margin-left: 20px;
+  font-size: 1.1rem;
+}
+
+
+
+
+
+/* Nabvbar */
+svg{
+  margin-left: 100px;
+}
+
+
+.navbar-menu{
+  margin-right: 10rem;
+}
+/* .is-nav-fixed{
+  background-color: white;
+  position: fixed;
+
+  overflow: auto;
+} */
+
+/* buttons */
+
+.is-orange{
+  background-color:#FAC663 ;
+}
+
+.btn{
+  width: 220px;
+  height: 50px;
+  padding:0.6em 2em;
+  border-radius: 20px;
+  font-size:1em;
+  border:0;
+  cursor:pointer;
+  margin:1em;
+}
+
+.is-white-yellow{
+  border: 2px  solid #FAC663;
+  background-color: transparent;
+}
+
+.navbar {
+  position: fixed;
+}
+
+/* Card */
+
+
+.card{
+  border-radius: 8px;
+  overflow: auto;
+  margin-bottom: 2rem;
+}
+.content{
+font-size: 1rem;
+line-height: 0.7rem;
+}
+
+.catpowing{
+
+ 
+  position: absolute;
+  margin-left: 5px;
+
+}
+
+.btn-book{
+  background-color: #FF7236;
+  color: white;
+  width: 240px;
+  height: 50px;
+  padding:0.6em 2em;
+  border-radius: 20px;
+  font-size:1em;
+  border:0;
+  cursor:pointer;
+  margin:1em;
+  overflow: auto
+}

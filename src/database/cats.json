@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Эконом",
+    "size": "(ШгХгВг) - 90x70x180 см",
+    "square": "0,63 м2",
+    "amenities": " ",
+    "price": "100 Р",
+    "image": "https://cdn.pixabay.com/photo/2019/11/08/11/56/cat-4611189__340.jpg"
+  },
+  {
+    "name": "xxxx",
+    "size": "(ШгХгВг) - 90x70x180 см",
+    "square": "0,63 м2",
+    "amenities": "",
+    "price": "100 Р",
+    "image": "https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "name": "ggg",
+    "size": "(ШгХгВг) - 90x70x180 см",
+    "square": "0,63 м2",
+    "amenities": "",
+    "price": "100 Р",
+    "image": "https://images.pexels.com/photos/617278/pexels-photo-617278.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  }
+]
